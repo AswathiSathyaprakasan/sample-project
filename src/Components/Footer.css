@@ -1,0 +1,26 @@
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer h5 {
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #cccccc;
+}
+
+footer .form-control {
+    background-color: #6c757d;
+    border: none;
+    color: #ffffff;
+}
+
+footer .form-control::placeholder {
+    color: #dddddd;
+}
